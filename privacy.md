@@ -1,5 +1,5 @@
 # Xateria Official PRIVACY POLICY
-Please read the VEAS PRIVACY POLICY link before using the bot.
+Please read the Xateria Official PRIVACY POLICY link before using the bot.
 
 Your safety is too important for us and our developers.Please reas TOS and Policy.
 

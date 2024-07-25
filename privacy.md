@@ -1,5 +1,5 @@
-# Xateria Official PRIVACY POLICY
-Please read the Xateria Official PRIVACY POLICY link before using the bot.
+# CodeFusion Development PRIVACY POLICY
+Please read the CodeFusion Development PRIVACY POLICY link before using the bot.
 
 Your safety is too important for us and our developers.Please reas TOS and Policy.
 

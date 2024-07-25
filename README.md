@@ -1,2 +1,2 @@
-# veasprivacy
-Privacy Of Veas Bot
+# xateriaofficialtos
+Privacy Of Xateria Official Bot
